@@ -1,0 +1,19 @@
+{
+    "name": "faysal/laravel-blog-generator",
+    "description": "An elegant markdown-powered blog generator for laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Faysal\\LaravelBlogGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD. Faysal Rahman",
+            "email": "faysal35-3119@diu.edu.bd"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^9.0"
+    }
+}
